@@ -1,0 +1,7 @@
+# Ignore all data files
+*.csv
+
+# Ignore all images
+*.png
+*.jpg
+*.jpeg
