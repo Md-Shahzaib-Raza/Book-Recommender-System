@@ -5,3 +5,5 @@
 *.png
 *.jpg
 *.jpeg
+# Ignore all virtual environment folders
+*.venv
